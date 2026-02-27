@@ -25,17 +25,17 @@ Customer Volume: 974 total customers
 
 **Key Metrics Tracked**
 
--Total Customers
+- Total Customers
 
--Total Revenue
+- Total Revenue
 
--Total Purchases
+- Total Purchases
 
--Average Customer Tenure (months)
+- Average Customer Tenure (months)
 
--Average Satisfaction Rate
+- Average Satisfaction Rate
 
--Churned vs Retained Customers
+- Churned vs Retained Customers
 
 **Tools Used**
 
