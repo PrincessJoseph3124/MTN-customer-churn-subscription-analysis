@@ -1,1 +1,1 @@
-![](images/images/MTN_dataset_Modelling.png)
+![](images/images/MTN_Data_Modelling.png)
