@@ -47,6 +47,10 @@ Data Visualization – Interactive charts, filters, and drill-downs
 
 **Data Cleaning & Preparation**
 
+![](images/images/MTN_dataset_cleaning.png)
+
+- Imported MTN CSV data via Get Data → From Text/CSV
+
 - The dataset was prepared to ensure accurate analysis and reporting by:
 
 - Removing duplicate customer records
@@ -61,6 +65,7 @@ Data Visualization – Interactive charts, filters, and drill-downs
 
 **Data Modeling**
 
+![](images/images/MTN_Data_Modelling.png)
 A structured data model was implemented consisting of:
 
 Fact Table: Customer transactions and churn status
